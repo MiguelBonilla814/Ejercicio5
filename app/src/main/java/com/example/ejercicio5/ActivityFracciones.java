@@ -20,6 +20,7 @@ public class ActivityFracciones extends AppCompatActivity {
         setContentView(R.layout.activity_fracciones);
 
         Toast.makeText(this, "hola", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "hola", Toast.LENGTH_LONG).show();
         editText_ingresoFraccion = findViewById(R.id.editText_fraccion);
     }
 
