@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio5</string>
+    <string name="textView_titulo">Ejercicio 5</string>
+    <string name="button_ingresar_numeros">Ingresar Números</string>
+    <string name="button_ingresar_fracciones">Ingresar Fracciones</string>
+    <string name="textView_titulo_numeros">Ingreso de Números</string>
+    <string name="textView_titulo_fracciones">Ingreso de Fracciones</string>
+    <string name="editText_numero">Ingrese un número</string>
+    <string name="editText_fracciones">Ingrese una fracción</string>
+    <string name="button_ingresar>">Ingresar</string>
+</resources>
