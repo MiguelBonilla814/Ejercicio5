@@ -8,4 +8,5 @@
     <string name="editText_numero">Ingrese un número</string>
     <string name="editText_fracciones">Ingrese una fracción</string>
     <string name="button_ingresar">Ingresar</string>
+    <string name="hola">Hola</string>
 </resources>
