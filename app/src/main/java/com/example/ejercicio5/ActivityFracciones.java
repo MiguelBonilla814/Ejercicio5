@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -18,6 +19,7 @@ public class ActivityFracciones extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fracciones);
 
+        Toast.makeText(this, "hola", Toast.LENGTH_LONG).show();
         editText_ingresoFraccion = findViewById(R.id.editText_fraccion);
     }
 
